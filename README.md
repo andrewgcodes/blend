@@ -4,7 +4,7 @@
 </a>
 
 Take your two favorite songs and find out what song is a perfect blend (with AI and embeddings)
-
+![image](https://github.com/andrewgcodes/blend/blob/main/andrewgaoships%20(1).png)
 Made using a subset of the new DISCO-10M dataset (https://huggingface.co/datasets/DISCOX/DISCO-10M)
 
 **Works much much better with the full 10M song dataset, instead of just the 200k subset (50x more songs!). Please expect best results with the full dataset**
